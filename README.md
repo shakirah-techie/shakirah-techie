@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shakirah-techie
 - 👀 I’m interested in cloud computing 
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on DevOps projects
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on projects
 
 
 <!---
