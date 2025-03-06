@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @shakirah-techie
-- 👀 I’m interested in Data Analysis/Engineering
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects
 
